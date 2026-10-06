@@ -62,13 +62,13 @@ anish-portfolio/
 
 ## 🌐 Live Demo
 
-[View Live Portfolio](YOUR_GITHUB_PAGES_LINK)
+[View Live Portfolio](https://anis8h.github.io/anish_portfolio/)
 
 ## 📸 Screenshots
 
 ### Home
 
-![Portfolio Home](screenshots/Homepage.png)
+![Portfolio Home](screenshots/Homepsgr.png)
 
 ### Projects
 
