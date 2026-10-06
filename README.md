@@ -68,7 +68,7 @@ anish-portfolio/
 
 ### Home
 
-![Portfolio Home](screenshots/Homepsgr.png)
+![Portfolio Home](screenshots/homepsgr.png)
 
 ### Projects
 
