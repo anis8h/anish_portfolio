@@ -60,7 +60,19 @@ anish-portfolio/
 ├── Anish_Jadhav_Resume.pdf
 └── README.md 
 
+## 🌐 Live Demo
 
+[View Live Portfolio](YOUR_GITHUB_PAGES_LINK)
+
+## 📸 Screenshots
+
+### Home
+
+![Portfolio Home](screenshots/Homepage.png)
+
+### Projects
+
+![Portfolio Projects](screenshots/Skill.png)
 
 📌 Sections
 Home
